@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ji24077/Leetcodetillfaang/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ji24077/Leetcodetillfaang/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/ji24077/Leetcodetillfaang/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ji24077/Leetcodetillfaang/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/ji24077/Leetcodetillfaang/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
