@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ji24077/Leetcodetillfaang/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ji24077/Leetcodetillfaang/tree/master/0724-find-pivot-index) |
+| [1319-unique-number-of-occurrences](https://github.com/ji24077/Leetcodetillfaang/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ji24077/Leetcodetillfaang/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ji24077/Leetcodetillfaang/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/ji24077/Leetcodetillfaang/tree/master/1833-find-the-highest-altitude) |
@@ -51,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/ji24077/Leetcodetillfaang/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ji24077/Leetcodetillfaang/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
