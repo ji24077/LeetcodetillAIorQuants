@@ -1,16 +1,17 @@
 public class Solution {
     public string MergeAlternately(string word1, string word2) {
-      int i = 0, j = 0;
-      StringBuilder result = new StringBuilder(); // like an array but for string
-      while( i< word1.Length || j < word2.Length){
-        if(i < word1.Length){
-          result.Append(word1[i++]);
+      int left = 0;
+      int right = 0;
+      StringBuilder solution = new StringBuilder(); //like an array for string
+      //since String[] is immutable.
+      while(left < word1.Length || right < word2.Length){
+        if(left < word1.Length){
+          solution.Append(word1[left++]);
         }
-        if(j < word2.Length){
-          result.Append(word2[j++]);
+        if(right< word2.Length){
+          solution.Append(word2[right++]);
         }
       }
-      return result.ToString();
-        
+      return solution.ToString();
     }
 }
