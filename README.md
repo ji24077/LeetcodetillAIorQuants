@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ji24077/Leetcodetillfaang/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
