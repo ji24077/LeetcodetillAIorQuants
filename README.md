@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ji24077/Leetcodetillfaang/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ji24077/Leetcodetillfaang/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/ji24077/Leetcodetillfaang/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/ji24077/Leetcodetillfaang/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ji24077/Leetcodetillfaang/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ji24077/Leetcodetillfaang/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/ji24077/Leetcodetillfaang/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
