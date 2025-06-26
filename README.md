@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/ji24077/Leetcodetillfaang/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/ji24077/Leetcodetillfaang/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/1236-n-th-tribonacci-number) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/1236-n-th-tribonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ji24077/Leetcodetillfaang/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
