@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ji24077/Leetcodetillfaang/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0392-is-subsequence) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/1146-greatest-common-divisor-of-strings) |
