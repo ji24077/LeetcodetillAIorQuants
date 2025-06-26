@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ji24077/Leetcodetillfaang/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ji24077/Leetcodetillfaang/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ji24077/Leetcodetillfaang/tree/master/0206-reverse-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ji24077/Leetcodetillfaang/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
