@@ -98,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ji24077/Leetcodetillfaang/tree/master/0199-binary-tree-right-side-view) |
+| [0871-keys-and-rooms](https://github.com/ji24077/Leetcodetillfaang/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/ji24077/Leetcodetillfaang/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ji24077/Leetcodetillfaang/tree/master/0199-binary-tree-right-side-view) |
+| [0871-keys-and-rooms](https://github.com/ji24077/Leetcodetillfaang/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/2470-removing-stars-from-a-string) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/ji24077/Leetcodetillfaang/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
