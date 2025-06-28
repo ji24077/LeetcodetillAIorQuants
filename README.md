@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ji24077/Leetcodetillfaang/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/ji24077/Leetcodetillfaang/tree/master/1894-merge-strings-alternately) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ji24077/Leetcodetillfaang/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/ji24077/Leetcodetillfaang/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ji24077/Leetcodetillfaang/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Design
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0088-merge-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ji24077/Leetcodetillfaang/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
