@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ji24077/Leetcodetillfaang/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ji24077/Leetcodetillfaang/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ji24077/Leetcodetillfaang/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ji24077/Leetcodetillfaang/tree/master/0383-ransom-note) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ji24077/Leetcodetillfaang/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ji24077/Leetcodetillfaang/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ji24077/Leetcodetillfaang/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ji24077/Leetcodetillfaang/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/ji24077/Leetcodetillfaang/tree/master/1319-unique-number-of-occurrences) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ji24077/Leetcodetillfaang/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
