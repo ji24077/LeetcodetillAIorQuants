@@ -21,9 +21,9 @@ public class Solution {
 
       List<double> result = new List<double>();
 
-      if (root == null){
-        return result;
-      }
+      // if (root == null){
+      //   return result;
+      // }
       Queue<TreeNode> q = new Queue<TreeNode>();
 
       q.Enqueue(root);
