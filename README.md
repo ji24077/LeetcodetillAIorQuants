@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ji24077/Leetcodetillfaang/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ji24077/Leetcodetillfaang/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ji24077/Leetcodetillfaang/tree/master/0904-leaf-similar-trees) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ji24077/Leetcodetillfaang/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ji24077/Leetcodetillfaang/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/ji24077/Leetcodetillfaang/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/ji24077/Leetcodetillfaang/tree/master/0904-leaf-similar-trees) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ji24077/Leetcodetillfaang/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ji24077/Leetcodetillfaang/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/ji24077/Leetcodetillfaang/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ji24077/Leetcodetillfaang/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ji24077/Leetcodetillfaang/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ji24077/Leetcodetillfaang/tree/master/0904-leaf-similar-trees) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ji24077/Leetcodetillfaang/tree/master/0374-guess-number-higher-or-lower) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ji24077/Leetcodetillfaang/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0783-search-in-a-binary-search-tree) |
 ## Interactive
 |  |
