@@ -12,7 +12,7 @@ public class Solution {
 
       //nums[i] - nums[i- 1] = 1
       for ( int i = 1; i <= n; i++){
-        if(i == n || nums[i] != nums[i -1] +1)
+        if(i == n || nums[i]- nums[i -1] !=1)
         {
           if ( start == nums[ i - 1]){
             result.Add(start.ToString());
