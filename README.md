@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ji24077/Leetcodetillfaang/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ji24077/Leetcodetillfaang/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ji24077/Leetcodetillfaang/tree/master/0283-move-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ji24077/Leetcodetillfaang/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ji24077/Leetcodetillfaang/tree/master/0724-find-pivot-index) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ji24077/Leetcodetillfaang/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ji24077/Leetcodetillfaang/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ji24077/Leetcodetillfaang/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ji24077/Leetcodetillfaang/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
 | [1319-unique-number-of-occurrences](https://github.com/ji24077/Leetcodetillfaang/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ji24077/Leetcodetillfaang/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Design
@@ -206,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ji24077/Leetcodetillfaang/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ji24077/Leetcodetillfaang/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
