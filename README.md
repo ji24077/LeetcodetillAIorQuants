@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ji24077/Leetcodetillfaang/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ji24077/Leetcodetillfaang/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ji24077/Leetcodetillfaang/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ji24077/Leetcodetillfaang/tree/master/0242-valid-anagram) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ji24077/Leetcodetillfaang/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ji24077/Leetcodetillfaang/tree/master/0071-simplify-path) |
 | [2470-removing-stars-from-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
