@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ji24077/Leetcodetillfaang/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ji24077/Leetcodetillfaang/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ji24077/Leetcodetillfaang/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ji24077/Leetcodetillfaang/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0151-reverse-words-in-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ji24077/Leetcodetillfaang/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ji24077/Leetcodetillfaang/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ji24077/Leetcodetillfaang/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ji24077/Leetcodetillfaang/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ji24077/Leetcodetillfaang/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/0205-isomorphic-strings) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ji24077/Leetcodetillfaang/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
