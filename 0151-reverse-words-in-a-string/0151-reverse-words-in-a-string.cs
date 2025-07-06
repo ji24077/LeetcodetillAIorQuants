@@ -1,17 +1,30 @@
 public class Solution {
     public string ReverseWords(string s) {
-      // 1. 문자열 양 끝의 공백 제거
-        s = s.Trim();
+      Console.WriteLine(s);
+      s = s.Trim();
 
-        // 2. 공백 기준으로 단어 분리
-        // StringSplitOptions.RemoveEmptyEntries → 연속된 공백 무시
-        string[] words = s.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
-        // 3. 단어 순서 뒤집기
-        Array.Reverse(words);
+      List<string> words = new List<string>();
+      int i = s.Length - 1;
 
-        // 4. 단어들을 하나의 문자열로 연결 (공백으로 join)
-        return string.Join(" ", words);
-        
+      while( i >= 0){
+        while(i >= 0 && s[i] == ' '){
+          i--; // if its space, skipp
+        }
+        int end = i;
+
+        while(i>=0 && s[i] != ' '){
+          i--;
+          
+        }
+        int start = i + 1;
+        string word = s.Substring(start, end - i);
+        // start till length of word.
+        words.Add(word);
+      } 
+
+      string result = string.Join(" ", words);
+      Console.WriteLine(result);
+      return result;
     }
 }
