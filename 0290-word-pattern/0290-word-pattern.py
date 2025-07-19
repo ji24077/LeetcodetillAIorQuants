@@ -1,0 +1,27 @@
+class Solution:
+    def wordPattern(self, pattern: str, s: str) -> bool:
+        char_to_word = {}
+        word_to_char = {}
+        words = s.split() # [dog,cat,cat,dog]
+        if len(words) != len(pattern):
+          return False
+
+        for ch, w in zip(pattern, words):
+
+          if ch in char_to_word:
+            if char_to_word[ch] != w:
+              return False
+
+          else:
+            char_to_word[ch] = w
+
+          if w in word_to_char:
+
+            if word_to_char[w] != ch:
+              return False
+
+          else:
+            word_to_char[w] = ch
+        return True
+
+        
