@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ji24077/Leetcodetillfaang/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ji24077/Leetcodetillfaang/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ji24077/Leetcodetillfaang/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ji24077/Leetcodetillfaang/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ji24077/Leetcodetillfaang/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/0205-isomorphic-strings) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/ji24077/Leetcodetillfaang/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ji24077/Leetcodetillfaang/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ji24077/Leetcodetillfaang/tree/master/1908-recyclable-and-low-fat-products) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
