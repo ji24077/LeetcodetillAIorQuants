@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ji24077/Leetcodetillfaang/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1297-maximum-number-of-balloons](https://github.com/ji24077/Leetcodetillfaang/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/ji24077/Leetcodetillfaang/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/2470-removing-stars-from-a-string) |
 ## Math
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ji24077/Leetcodetillfaang/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ji24077/Leetcodetillfaang/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
+| [1297-maximum-number-of-balloons](https://github.com/ji24077/Leetcodetillfaang/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/ji24077/Leetcodetillfaang/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ji24077/Leetcodetillfaang/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Design
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ji24077/Leetcodetillfaang/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
+| [1297-maximum-number-of-balloons](https://github.com/ji24077/Leetcodetillfaang/tree/master/1297-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
