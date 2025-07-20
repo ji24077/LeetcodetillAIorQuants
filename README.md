@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ji24077/Leetcodetillfaang/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ji24077/Leetcodetillfaang/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/ji24077/Leetcodetillfaang/tree/master/0228-summary-ranges) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ji24077/Leetcodetillfaang/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ji24077/Leetcodetillfaang/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ji24077/Leetcodetillfaang/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ji24077/Leetcodetillfaang/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ji24077/Leetcodetillfaang/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ji24077/Leetcodetillfaang/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ji24077/Leetcodetillfaang/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -328,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ji24077/Leetcodetillfaang/tree/master/0146-lru-cache) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ji24077/Leetcodetillfaang/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
