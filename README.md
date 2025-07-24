@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ji24077/Leetcodetillfaang/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ji24077/Leetcodetillfaang/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ji24077/Leetcodetillfaang/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0345-reverse-vowels-of-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/ji24077/Leetcodetillfaang/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0227-basic-calculator-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/1236-n-th-tribonacci-number) |
 ## Array
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ji24077/Leetcodetillfaang/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ji24077/Leetcodetillfaang/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0227-basic-calculator-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
