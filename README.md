@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ji24077/Leetcodetillfaang/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/ji24077/Leetcodetillfaang/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/ji24077/Leetcodetillfaang/tree/master/0747-min-cost-climbing-stairs) |
+| [0860-design-circular-queue](https://github.com/ji24077/Leetcodetillfaang/tree/master/0860-design-circular-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/ji24077/Leetcodetillfaang/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ji24077/Leetcodetillfaang/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ji24077/Leetcodetillfaang/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -163,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ji24077/Leetcodetillfaang/tree/master/0146-lru-cache) |
+| [0860-design-circular-queue](https://github.com/ji24077/Leetcodetillfaang/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/ji24077/Leetcodetillfaang/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/ji24077/Leetcodetillfaang/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/ji24077/Leetcodetillfaang/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ji24077/Leetcodetillfaang/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ji24077/Leetcodetillfaang/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ji24077/Leetcodetillfaang/tree/master/0206-reverse-linked-list) |
+| [0860-design-circular-queue](https://github.com/ji24077/Leetcodetillfaang/tree/master/0860-design-circular-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ji24077/Leetcodetillfaang/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
