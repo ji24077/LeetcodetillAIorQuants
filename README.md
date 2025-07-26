@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ji24077/Leetcodetillfaang/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ji24077/Leetcodetillfaang/tree/master/0283-move-zeroes) |
+| [0346-moving-average-from-data-stream](https://github.com/ji24077/Leetcodetillfaang/tree/master/0346-moving-average-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ji24077/Leetcodetillfaang/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0605-can-place-flowers) |
@@ -171,16 +172,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ji24077/Leetcodetillfaang/tree/master/0146-lru-cache) |
+| [0346-moving-average-from-data-stream](https://github.com/ji24077/Leetcodetillfaang/tree/master/0346-moving-average-from-data-stream) |
 | [0860-design-circular-queue](https://github.com/ji24077/Leetcodetillfaang/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/ji24077/Leetcodetillfaang/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/ji24077/Leetcodetillfaang/tree/master/0346-moving-average-from-data-stream) |
 | [0860-design-circular-queue](https://github.com/ji24077/Leetcodetillfaang/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/ji24077/Leetcodetillfaang/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/ji24077/Leetcodetillfaang/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/ji24077/Leetcodetillfaang/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
