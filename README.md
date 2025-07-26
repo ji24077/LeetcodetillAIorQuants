@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/0268-missing-number) |
+| [1018-largest-perimeter-triangle](https://github.com/ji24077/Leetcodetillfaang/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/1236-n-th-tribonacci-number) |
 ## Array
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ji24077/Leetcodetillfaang/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/ji24077/Leetcodetillfaang/tree/master/0747-min-cost-climbing-stairs) |
 | [0860-design-circular-queue](https://github.com/ji24077/Leetcodetillfaang/tree/master/0860-design-circular-queue) |
+| [1018-largest-perimeter-triangle](https://github.com/ji24077/Leetcodetillfaang/tree/master/1018-largest-perimeter-triangle) |
 | [1319-unique-number-of-occurrences](https://github.com/ji24077/Leetcodetillfaang/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ji24077/Leetcodetillfaang/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ji24077/Leetcodetillfaang/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ji24077/Leetcodetillfaang/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0605-can-place-flowers) |
 | [0778-reorganize-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0778-reorganize-string) |
+| [1018-largest-perimeter-triangle](https://github.com/ji24077/Leetcodetillfaang/tree/master/1018-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ji24077/Leetcodetillfaang/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0778-reorganize-string) |
+| [1018-largest-perimeter-triangle](https://github.com/ji24077/Leetcodetillfaang/tree/master/1018-largest-perimeter-triangle) |
 ## Counting
 |  |
 | ------- |
