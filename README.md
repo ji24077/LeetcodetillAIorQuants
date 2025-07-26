@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ji24077/Leetcodetillfaang/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/ji24077/Leetcodetillfaang/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/ji24077/Leetcodetillfaang/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/ji24077/Leetcodetillfaang/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/ji24077/Leetcodetillfaang/tree/master/1319-unique-number-of-occurrences) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ji24077/Leetcodetillfaang/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ji24077/Leetcodetillfaang/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/ji24077/Leetcodetillfaang/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/ji24077/Leetcodetillfaang/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ji24077/Leetcodetillfaang/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ji24077/Leetcodetillfaang/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/ji24077/Leetcodetillfaang/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ji24077/Leetcodetillfaang/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ji24077/Leetcodetillfaang/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
@@ -345,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ji24077/Leetcodetillfaang/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ji24077/Leetcodetillfaang/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
