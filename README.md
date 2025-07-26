@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/ji24077/Leetcodetillfaang/tree/master/1297-maximum-number-of-balloons) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/ji24077/Leetcodetillfaang/tree/master/1894-merge-strings-alternately) |
 | [2406-decode-the-message](https://github.com/ji24077/Leetcodetillfaang/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/2470-removing-stars-from-a-string) |
