@@ -8,4 +8,5 @@ SELECT DATE_FORMAT(trans_date, '%Y-%m') AS month,
        SUM((state = 'approved') * amount) AS approved_total_amount
 FROM Transactions
 GROUP BY month, country
-ORDER BY month, country;
+ORDER BY month; # ASC임자동으로 increasing..
+## 먼저 month로 오름차정렬, 이후 country알파벳순.
