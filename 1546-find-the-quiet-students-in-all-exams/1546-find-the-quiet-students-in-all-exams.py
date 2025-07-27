@@ -1,7 +1,6 @@
 import pandas as pd
 
-def find_quiet_students(student: pd.DataFrame, exam: pd.DataFrame) -> pd.DataFrame:
-    import pandas as pd
+
 
 def find_quiet_students(student: pd.DataFrame, exam: pd.DataFrame) -> pd.DataFrame:
     # 1) 시험별로 최소/최대 점수 계산
