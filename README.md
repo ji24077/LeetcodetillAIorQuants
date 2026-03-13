@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ji24077/Leetcodetillfaang/tree/master/0283-move-zeroes) |
 | [0346-moving-average-from-data-stream](https://github.com/ji24077/Leetcodetillfaang/tree/master/0346-moving-average-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ji24077/Leetcodetillfaang/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0485-max-consecutive-ones](https://github.com/ji24077/Leetcodetillfaang/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ji24077/Leetcodetillfaang/tree/master/0643-maximum-average-subarray-i) |
