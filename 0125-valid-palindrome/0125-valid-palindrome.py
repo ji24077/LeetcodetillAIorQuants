@@ -1,16 +1,23 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        # s.strip()
-        s = s.lower()
-        temp = ''.join(char for char in s if char.isalnum()) 
-        temp2 = ''.join(temp[i] for i in range(len(temp)-1, -1, -1))
-        print(temp)
-        print(temp2)
-        return temp == temp2
+        left = 0
+        right = len(s) - 1
 
+       #use isalnum()
 
+        while left < right:
+          while left < right and not s[left].isalnum():
+            left+= 1
+          while left < right and not s[right].isalnum():
+            right -=1
 
+          if s[left].lower() != s[right].lower():
+            return False
+          left += 1
+          right -= 1
 
+        return True
+    
 
 
 
