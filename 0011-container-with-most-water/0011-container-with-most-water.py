@@ -5,16 +5,18 @@ class Solution:
       result = 0
 
       while left < right:
-        width = right - left
+        w = right - left
 
-   
-        result = max(width*  min(height[left], height[right]),result)
-
+        area = w * min(height[left], height[right])
+        result = max(area, result)
         if height[left] < height[right]:
-          left+= 1
+          left+=1
+
         else:
           right -= 1
+
       return result
 
-        
+
+      
 
