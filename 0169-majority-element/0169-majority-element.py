@@ -1,15 +1,12 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        candidate = 0 
+        standard = len(nums) // 2
 
-        count = 0 
+        count = {}
 
-        for i in range(len(nums)):
-          if count == 0:
-            candidate = nums[i]
-          if candidate == nums[i]:
-            count +=1
-          else:
-            count -=1
-        return candidate
-
+        for num in nums:
+          if num not in count:
+            count[num] = 0
+          count[num] += 1
+          if count[num] > standard:
+            return num
