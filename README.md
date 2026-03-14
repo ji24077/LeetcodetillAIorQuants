@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ji24077/Leetcodetillfaang/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ji24077/Leetcodetillfaang/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ji24077/Leetcodetillfaang/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ji24077/Leetcodetillfaang/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ji24077/Leetcodetillfaang/tree/master/0071-simplify-path) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ji24077/Leetcodetillfaang/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ji24077/Leetcodetillfaang/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ji24077/Leetcodetillfaang/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/ji24077/Leetcodetillfaang/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0209-minimum-size-subarray-sum) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ji24077/Leetcodetillfaang/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ji24077/Leetcodetillfaang/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ji24077/Leetcodetillfaang/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ji24077/Leetcodetillfaang/tree/master/0076-minimum-window-substring) |
