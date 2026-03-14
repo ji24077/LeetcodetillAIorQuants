@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ji24077/Leetcodetillfaang/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ji24077/Leetcodetillfaang/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/ji24077/Leetcodetillfaang/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ji24077/Leetcodetillfaang/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/ji24077/Leetcodetillfaang/tree/master/0187-repeated-dna-sequences) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ji24077/Leetcodetillfaang/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ji24077/Leetcodetillfaang/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/ji24077/Leetcodetillfaang/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ji24077/Leetcodetillfaang/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ji24077/Leetcodetillfaang/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ji24077/Leetcodetillfaang/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ji24077/Leetcodetillfaang/tree/master/0138-copy-list-with-random-pointer) |
