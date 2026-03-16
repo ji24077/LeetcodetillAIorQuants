@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ji24077/Leetcodetillfaang/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ji24077/Leetcodetillfaang/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ji24077/Leetcodetillfaang/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ji24077/Leetcodetillfaang/tree/master/0057-insert-interval) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ji24077/Leetcodetillfaang/tree/master/0054-spiral-matrix) |
 | [2470-removing-stars-from-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/2470-removing-stars-from-a-string) |
 ## Graph
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ji24077/Leetcodetillfaang/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/ji24077/Leetcodetillfaang/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/ji24077/Leetcodetillfaang/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ji24077/Leetcodetillfaang/tree/master/0695-max-area-of-island) |
 ## Rolling Hash
