@@ -5,24 +5,25 @@ class Solution:
         cols = [set() for _ in range(9)]
 
         boxes = [set() for _ in range(9)]
-
-        for row in range(9):
-          for col in range(9):
-            value = board[row][col]
-            if value == ".":
+        
+        for r in range(9):
+          for c in range(9):
+            val = board[r][c]
+            if val == ".":
               continue
-            box_index = (row//3)*3 + col//3
             
-
-            if value in rows[row]:
+            box_index = (r//3)*3 + c//3
+            if val in rows[r]:
               return False
-
-            if value in cols[col]:
+            rows[r].add(val)
+            if val in cols[c]:
               return False
-            if value in boxes[box_index]:
-              return  False
-
-            rows[row].add(value)
-            cols[col].add(value)
-            boxes[box_index].add(value)
+            cols[c].add(val)
+            if val in boxes[box_index]:
+              return False
+            boxes[box_index].add(val)
         return True
+
+
+
+            
