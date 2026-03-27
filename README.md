@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/ji24077/Leetcodetillfaang/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ji24077/Leetcodetillfaang/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/0202-happy-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ji24077/Leetcodetillfaang/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/ji24077/Leetcodetillfaang/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ji24077/Leetcodetillfaang/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ji24077/Leetcodetillfaang/tree/master/0055-jump-game) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ji24077/Leetcodetillfaang/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ji24077/Leetcodetillfaang/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ji24077/Leetcodetillfaang/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/ji24077/Leetcodetillfaang/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ji24077/Leetcodetillfaang/tree/master/0695-max-area-of-island) |
