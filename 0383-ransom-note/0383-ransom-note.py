@@ -1,23 +1,12 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+      freq_map = {}
 
-      freq = {}
+      for word in magazine:
+        freq_map[word] = freq_map.get(word, 0) + 1
 
-      for char in magazine:
-        if char not in freq:
-          freq[char] = 0
-        freq[char] += 1
-
-      for char in ransomNote:
-        if char not in freq:
+      for word in ransomNote:
+        if word not in freq_map or freq_map[word] == 0:
           return False
-        freq[char] -= 1
-
-        if freq[char] < 0:
-          return False
-
+        freq_map[word] -= 1
       return True
-
-
-
-        
