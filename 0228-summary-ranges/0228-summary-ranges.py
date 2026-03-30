@@ -10,7 +10,7 @@ class Solution:
 
         for i in range(1, len(nums)):
           ## nums[i] - nums[i-1] = 1
-          if nums[i] != nums[i-1] + 1: ##0->2 till.
+          if nums[i] - nums[i-1] !=  1: ##0->2 till.
             if start == nums[i-1]:
               result.append(str(start))
             else:
