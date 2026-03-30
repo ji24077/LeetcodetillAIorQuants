@@ -1,11 +1,11 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        groups = {}
+      group = {}
+      #lst = []
 
-        for word in strs:
-          key = ''.join(sorted(word)) #all the words are same after sorted
-
-          if key not in groups:
-            groups[key] = [] 
-          groups[key].append(word)
-        return list(groups.values())
+      for word in strs:
+        key = ''.join(sorted(word))
+        if key not in group:
+          group[key] = []
+        group[key].append(word)
+      return list(group.values())
