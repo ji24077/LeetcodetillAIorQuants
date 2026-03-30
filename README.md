@@ -454,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1186-building-h2o](https://github.com/ji24077/Leetcodetillfaang/tree/master/1186-building-h2o) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
