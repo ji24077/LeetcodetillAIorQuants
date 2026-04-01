@@ -11,11 +11,12 @@ class Solution:
         for i in range(1, len(nums)):
             # 끊기는 순간에만 구간 확정
             if nums[i] - nums[i-1] != 1: # later index i, and before index i-1
-                if start == nums[i-1]:
-                    result.append(str(start))           # 0,1,2,-> 
+                if nums[i-1] != start:
+                  result.append(f"{start}->{nums[i-1]}")
                 else:
-                    result.append(f"{start}->{nums[i-1]}")  # 범위
-                start = nums[i]  # 새 시작점 갱신
+                  result.append(str(nums[i - 1]))
+                start = nums[i]
+
 
         # 마지막 구간 처리
         if start == nums[-1]:
