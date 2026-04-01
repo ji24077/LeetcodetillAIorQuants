@@ -4,22 +4,23 @@ class Solution:
         result = []
 
         if not nums:
-          return result
+            return result
+
         start = nums[0]
 
-
         for i in range(1, len(nums)):
-          ## nums[i] - nums[i-1] = 1
-          if nums[i] - nums[i-1] !=  1: ##0->2 till.
-            if start == nums[i-1]: # if its single cont
-              result.append(str(start))
-            else:
-              result.append(f"{start}->{nums[i-1]}") #if its cont
-            start = nums[i] #update start
+            # 끊기는 순간에만 구간 확정
+            if nums[i] - nums[i-1] != 1: # later index i, and before index i-1
+                if start == nums[i-1]:
+                    result.append(str(start))           # 0,1,2,-> 
+                else:
+                    result.append(f"{start}->{nums[i-1]}")  # 범위
+                start = nums[i]  # 새 시작점 갱신
+
+        # 마지막 구간 처리
         if start == nums[-1]:
-          result.append(str(start))
+            result.append(str(start))
         else:
             result.append(f"{start}->{nums[-1]}")
-        return result
 
-        
+        return result
