@@ -11,11 +11,11 @@ class Solution:
         for i in range(1, len(nums)):
           ## nums[i] - nums[i-1] = 1
           if nums[i] - nums[i-1] !=  1: ##0->2 till.
-            if start == nums[i-1]:
+            if start == nums[i-1]: # if its single cont
               result.append(str(start))
             else:
-              result.append(f"{start}->{nums[i-1]}")
-            start = nums[i]
+              result.append(f"{start}->{nums[i-1]}") #if its cont
+            start = nums[i] #update start
         if start == nums[-1]:
           result.append(str(start))
         else:
