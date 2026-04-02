@@ -1,18 +1,18 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        merged = []
+      intervals.sort(key = lambda x:x[0]) # sort based on start
+      result = []
 
-        intervals.sort(key = lambda x :x[0])
+      result.append(intervals[0]) #add [1,3] first
+      for i in range(1, len(intervals)):
+        last = result[-1] # current result's last interval, for first its [1,3]
+        curr = intervals[i] # current interval [2,6]
 
-        for interval in intervals:
-          start, end = interval
+        if last[1] >= curr[0]: #last[1] = 3, curr[0] = 2,
+          last[1] = max(last[1], curr[1]) # 즉 겹치면, last의 [1,3]-> [1,6]으로 끝을갱신
 
-          if not merged or merged[-1][1] < start:
-            ## [[1,2],[2,3]]-> merged[-1][1] = 3
-            merged.append([start,end])
-          else:
-            merged[-1][1] = max(merged[-1][1], end)
-        return merged
-
-
+        else:
+          # if not, we just keep the same interval
+          result.append(curr)
+      return result
 
