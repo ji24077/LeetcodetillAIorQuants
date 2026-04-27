@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ji24077/Leetcodetillfaang/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ji24077/Leetcodetillfaang/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0015-3sum) |
@@ -27,8 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ji24077/Leetcodetillfaang/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ji24077/Leetcodetillfaang/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ji24077/Leetcodetillfaang/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ji24077/Leetcodetillfaang/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -56,8 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/ji24077/Leetcodetillfaang/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/2470-removing-stars-from-a-string) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ji24077/Leetcodetillfaang/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ji24077/Leetcodetillfaang/tree/master/0070-climbing-stairs) |
@@ -69,8 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/ji24077/Leetcodetillfaang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/1236-n-th-tribonacci-number) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ji24077/Leetcodetillfaang/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0015-3sum) |
@@ -126,8 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ji24077/Leetcodetillfaang/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/ji24077/Leetcodetillfaang/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ji24077/Leetcodetillfaang/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ji24077/Leetcodetillfaang/tree/master/0055-jump-game) |
@@ -137,8 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0778-reorganize-string) |
 | [1018-largest-perimeter-triangle](https://github.com/ji24077/Leetcodetillfaang/tree/master/1018-largest-perimeter-triangle) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ji24077/Leetcodetillfaang/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ji24077/Leetcodetillfaang/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0045-jump-game-ii) |
@@ -153,8 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/ji24077/Leetcodetillfaang/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ji24077/Leetcodetillfaang/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ji24077/Leetcodetillfaang/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ji24077/Leetcodetillfaang/tree/master/0076-minimum-window-substring) |
@@ -163,15 +163,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ji24077/Leetcodetillfaang/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ji24077/Leetcodetillfaang/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ji24077/Leetcodetillfaang/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/ji24077/Leetcodetillfaang/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ji24077/Leetcodetillfaang/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -202,26 +202,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/ji24077/Leetcodetillfaang/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2406-decode-the-message](https://github.com/ji24077/Leetcodetillfaang/tree/master/2406-decode-the-message) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/ji24077/Leetcodetillfaang/tree/master/0146-lru-cache) |
 | [0346-moving-average-from-data-stream](https://github.com/ji24077/Leetcodetillfaang/tree/master/0346-moving-average-from-data-stream) |
 | [0860-design-circular-queue](https://github.com/ji24077/Leetcodetillfaang/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/ji24077/Leetcodetillfaang/tree/master/0969-number-of-recent-calls) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/ji24077/Leetcodetillfaang/tree/master/0346-moving-average-from-data-stream) |
 | [0860-design-circular-queue](https://github.com/ji24077/Leetcodetillfaang/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/ji24077/Leetcodetillfaang/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/ji24077/Leetcodetillfaang/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/ji24077/Leetcodetillfaang/tree/master/0969-number-of-recent-calls) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ji24077/Leetcodetillfaang/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/ji24077/Leetcodetillfaang/tree/master/0138-copy-list-with-random-pointer) |
@@ -232,14 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/ji24077/Leetcodetillfaang/tree/master/0860-design-circular-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ji24077/Leetcodetillfaang/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ji24077/Leetcodetillfaang/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ji24077/Leetcodetillfaang/tree/master/0206-reverse-linked-list) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0101-symmetric-tree) |
@@ -253,8 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ji24077/Leetcodetillfaang/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0101-symmetric-tree) |
@@ -269,8 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/ji24077/Leetcodetillfaang/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/ji24077/Leetcodetillfaang/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -283,8 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ji24077/Leetcodetillfaang/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/ji24077/Leetcodetillfaang/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0101-symmetric-tree) |
@@ -298,8 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ji24077/Leetcodetillfaang/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0035-search-insert-position](https://github.com/ji24077/Leetcodetillfaang/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -310,41 +310,41 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ji24077/Leetcodetillfaang/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0783-search-in-a-binary-search-tree) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ji24077/Leetcodetillfaang/tree/master/0374-guess-number-higher-or-lower) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ji24077/Leetcodetillfaang/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ji24077/Leetcodetillfaang/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ji24077/Leetcodetillfaang/tree/master/0338-counting-bits) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ji24077/Leetcodetillfaang/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ji24077/Leetcodetillfaang/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ji24077/Leetcodetillfaang/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0227-basic-calculator-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ji24077/Leetcodetillfaang/tree/master/0054-spiral-matrix) |
 | [2470-removing-stars-from-a-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/2470-removing-stars-from-a-string) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/ji24077/Leetcodetillfaang/tree/master/0207-course-schedule) |
 | [0871-keys-and-rooms](https://github.com/ji24077/Leetcodetillfaang/tree/master/0871-keys-and-rooms) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/ji24077/Leetcodetillfaang/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ji24077/Leetcodetillfaang/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ji24077/Leetcodetillfaang/tree/master/0056-merge-intervals) |
@@ -359,37 +359,37 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0778-reorganize-string) |
 | [1018-largest-perimeter-triangle](https://github.com/ji24077/Leetcodetillfaang/tree/master/1018-largest-perimeter-triangle) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ji24077/Leetcodetillfaang/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/ji24077/Leetcodetillfaang/tree/master/1297-maximum-number-of-balloons) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ji24077/Leetcodetillfaang/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ji24077/Leetcodetillfaang/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ji24077/Leetcodetillfaang/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ji24077/Leetcodetillfaang/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0778-reorganize-string](https://github.com/ji24077/Leetcodetillfaang/tree/master/0778-reorganize-string) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ji24077/Leetcodetillfaang/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0274-h-index](https://github.com/ji24077/Leetcodetillfaang/tree/master/0274-h-index) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0176-second-highest-salary](https://github.com/ji24077/Leetcodetillfaang/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/ji24077/Leetcodetillfaang/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/ji24077/Leetcodetillfaang/tree/master/0184-department-highest-salary) |
@@ -421,23 +421,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/ji24077/Leetcodetillfaang/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/ji24077/Leetcodetillfaang/tree/master/2087-confirmation-rate) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ji24077/Leetcodetillfaang/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ji24077/Leetcodetillfaang/tree/master/0695-max-area-of-island) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ji24077/Leetcodetillfaang/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/ji24077/Leetcodetillfaang/tree/master/0040-combination-sum-ii) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/ji24077/Leetcodetillfaang/tree/master/0146-lru-cache) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ji24077/Leetcodetillfaang/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ji24077/Leetcodetillfaang/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ji24077/Leetcodetillfaang/tree/master/0054-spiral-matrix) |
@@ -445,27 +445,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ji24077/Leetcodetillfaang/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ji24077/Leetcodetillfaang/tree/master/0695-max-area-of-island) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ji24077/Leetcodetillfaang/tree/master/0187-repeated-dna-sequences) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ji24077/Leetcodetillfaang/tree/master/0187-repeated-dna-sequences) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/ji24077/Leetcodetillfaang/tree/master/0207-course-schedule) |
 ## Concurrency
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1186-building-h2o](https://github.com/ji24077/Leetcodetillfaang/tree/master/1186-building-h2o) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ji24077/Leetcodetillfaang/tree/master/0128-longest-consecutive-sequence) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ji24077/Leetcodetillfaang/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
