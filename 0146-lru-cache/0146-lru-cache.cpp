@@ -1,30 +1,37 @@
 class LRUCache{
-    int cap;
-    list<pair<int,int>> dll;
-    unordered_map<int, list<pair<int,int>>::iterator> mp;
+    int cap; // for cap
 
-public:
-    LRUCache(int capacity) : cap(capacity) {}
+    list<pair<int, int>> dll; // list that contains list of pair.
 
-    void put(int key, int value){
-        auto it = mp.find(key);
-        if (it != mp.end()){                      // 있으면 (== → !=)
-            it->second->second = value;
+    unordered_map<int, list<pair<int, int>> :: iterator> mp; // to store the pointer of list.
+
+    public:
+        LRUCache(int capacity) : cap(capacity) {}
+
+        int get(int key){
+            auto it = mp.find(key);
+            if(it == mp.end()){
+                return -1;
+            }
             dll.splice(dll.begin(), dll, it->second);
-            return;                               // ← 추가
+            return it->second->second;
         }
-        if ((int)dll.size() == cap){
-            mp.erase(dll.back().first);
-            dll.pop_back();
-        }
-        dll.emplace_front(key, value);
-        mp[key] = dll.begin();
-    }
+        void put(int key, int value){
+            auto it = mp.find(key);
 
-    int get(int key){
-        auto it = mp.find(key);
-        if (it == mp.end()) return -1;            // 없으면 -1 (!= → ==)
-        dll.splice(dll.begin(), dll, it->second);
-        return it->second->second;
-    }
-};                                                // ← 세미콜론
+            if (it != mp.end()){
+                //if key exists,
+                it->second->second = value;
+                dll.splice(dll.begin(), dll, it->second);
+                return;
+            }
+            if ((int)dll.size() == cap){
+                mp.erase(dll.back().first);
+                dll.pop_back();
+            } 
+            dll.emplace_front(key,value);
+
+            mp[key]= dll.begin();
+        }
+    
+};
